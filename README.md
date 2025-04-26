@@ -16,7 +16,7 @@ I'm a passionate high school student currently diving deep into the world of pro
 ## Contact:
 - 💌 **Email**: [karol.samsel.dev@gmail.com](mailto:karol.samsel.dev@gmail.com)
 
-I’m always looking for new opportunities and challenges, so feel free to reach out if you’d like to collaborate or chat about programming!
+I’m always looking for new opportunities and challenges, feel free to reach out if you want to build something or chat about programming!
 
 
 
