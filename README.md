@@ -9,7 +9,7 @@ I'm a passionate high school student currently diving deep into the world of pro
 
 ## 🛠️ Technologies
 - 💻 **Languages**: JavaScript, Python, Java, C++, C, SQL
-- ⚙️ **Frameworks**: React, Spring Boot, Django
+- ⚙️ **Frameworks**: Next.js, Spring Boot, Django
 - 🗄️ **Databases**: MySQL
 
 
